@@ -7,9 +7,8 @@ there are so many cool things to learn and watch and i never seem to have the ti
 
 if you have something you think i would like to or should listen/watch, please [file an issue](https://github.com/ashleygwilliams/breakfast-repo/issues/new) with the link and a small description. thanks!
 
-looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives) 
+looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives)
 
-### june 2016
+### january 2017
 
-- [Jeanine Adkisson: Tulip: A Well-Balanced Language (MoonConf 2016)](https://www.youtube.com/watch?v=WWlnRWbOlho&feature=youtu.be&a)
-- [Isaac Schlueter: Non-Violent Communication for Fun, Profit, and Self Defense (Open Source & Feelings 2015)](https://www.youtube.com/watch?v=G5_8u3NA8M8)
+- [Lee Byron: GraphQL: Designing a Data Language](https://www.youtube.com/watch?v=Oh5oC98ztvI)
