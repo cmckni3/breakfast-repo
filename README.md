@@ -12,3 +12,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 ### january 2017
 
 - [Lee Byron: GraphQL: Designing a Data Language](https://www.youtube.com/watch?v=Oh5oC98ztvI)
+- [Katrina Owen: dotGo 2016: The Scandalous Story of the Dreadful Code Written by the Best of Us](https://www.youtube.com/watch?v=-wYLmsizBc0)
+- [Kelsey Hightower: dotGo 2016: Self Deploying Go Applications](https://www.youtube.com/watch?v=nhmAyZNlECw)
