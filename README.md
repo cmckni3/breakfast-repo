@@ -16,3 +16,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 - [Kelsey Hightower: dotGo 2016: Self Deploying Go Applications](https://www.youtube.com/watch?v=nhmAyZNlECw)
 - [Apollo GraphQL 2016: Faster modern apps with Angular and GraphQL](https://www.youtube.com/watch?v=Xx39bv-5ojA)
 - [Apollo GraphQL 2016: Building a Better GitHub Platform with GraphQL](https://www.youtube.com/watch?v=hT-4pVmkGt0)
+- [StrangeLoop 2016: Alan Shreve: Idealized Commit Logs: Code Simplification via Program Slicing](https://www.youtube.com/watch?v=dSqLt8BgbRQ)
