@@ -18,3 +18,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 - [Apollo GraphQL 2016: Building a Better GitHub Platform with GraphQL](https://www.youtube.com/watch?v=hT-4pVmkGt0)
 - [StrangeLoop 2016: Alan Shreve: Idealized Commit Logs: Code Simplification via Program Slicing](https://www.youtube.com/watch?v=dSqLt8BgbRQ)
 - [Josh Owens: Spacedojo Code Kata: Cleaning up Code with Eslint](https://www.youtube.com/watch?v=Vh_gOMfOod8)
+- [Navigating Your Transition to GraphQL](https://www.youtube.com/watch?v=RCIRZr0RRt8)
