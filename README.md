@@ -9,13 +9,4 @@ if you have something you think i would like to or should listen/watch, please [
 
 looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives)
 
-### january 2017
-
-- [Lee Byron: GraphQL: Designing a Data Language](https://www.youtube.com/watch?v=Oh5oC98ztvI)
-- [Katrina Owen: dotGo 2016: The Scandalous Story of the Dreadful Code Written by the Best of Us](https://www.youtube.com/watch?v=-wYLmsizBc0)
-- [Kelsey Hightower: dotGo 2016: Self Deploying Go Applications](https://www.youtube.com/watch?v=nhmAyZNlECw)
-- [Apollo GraphQL 2016: Faster modern apps with Angular and GraphQL](https://www.youtube.com/watch?v=Xx39bv-5ojA)
-- [Apollo GraphQL 2016: Building a Better GitHub Platform with GraphQL](https://www.youtube.com/watch?v=hT-4pVmkGt0)
-- [StrangeLoop 2016: Alan Shreve: Idealized Commit Logs: Code Simplification via Program Slicing](https://www.youtube.com/watch?v=dSqLt8BgbRQ)
-- [Josh Owens: Spacedojo Code Kata: Cleaning up Code with Eslint](https://www.youtube.com/watch?v=Vh_gOMfOod8)
-- [Navigating Your Transition to GraphQL](https://www.youtube.com/watch?v=RCIRZr0RRt8)
+### february 2017
