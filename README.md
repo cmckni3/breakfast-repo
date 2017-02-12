@@ -10,3 +10,6 @@ if you have something you think i would like to or should listen/watch, please [
 looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives)
 
 ### february 2017
+
+- [Tero Parviainen: Build Your Own AngularJS](https://vimeo.com/96444762)
+- [Amy Dyer: Incremental Swift](https://realm.io/news/tryswift-amy-dyer-incremental-swift/)
