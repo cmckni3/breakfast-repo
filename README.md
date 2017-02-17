@@ -10,3 +10,4 @@ there are so many cool things to learn and watch and i never seem to have the ti
 - [Crystal, the Programming Language - ChicagoRuby: Downtown](https://www.youtube.com/watch?v=OmYR2AnwESM)
 - [Will Leinweber: GORUCO 2016 - Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=oC9IknG40po)
 - [Will Leinweber: Ruby On Ales 2016: Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo)
+- [Burr Sutter & company blow your mind at Red Hat Summit 2016](https://www.youtube.com/watch?v=ooA6FmTL4Dk)
