@@ -9,3 +9,4 @@ there are so many cool things to learn and watch and i never seem to have the ti
 - [Practically Functional Programming](https://forwardcourses.com/workshops/28)
 - [User Error on a Massive Scale - Amazon AWS - CS50 Live - S3E0](https://www.youtube.com/watch?v=JMbY_Nrj458)
 - [User Error on a Massive Scale - GitLab - CS50 Live - S3E0](https://www.youtube.com/watch?v=sVhxJglkQwI)
+- [CS50 Live, Season 3, Episode 1](https://www.youtube.com/watch?v=WMiYbWv6Bws)
