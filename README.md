@@ -7,3 +7,5 @@ there are so many cool things to learn and watch and i never seem to have the ti
 
 - [I've Got Swagger. Have You?](https://pusher.com/sessions/meetup/london-node-user-group/ive-got-swagger-have-you)
 - [Practically Functional Programming](https://forwardcourses.com/workshops/28)
+- [User Error on a Massive Scale - Amazon AWS - CS50 Live - S3E0](https://www.youtube.com/watch?v=JMbY_Nrj458)
+- [User Error on a Massive Scale - GitLab - CS50 Live - S3E0](https://www.youtube.com/watch?v=sVhxJglkQwI)
