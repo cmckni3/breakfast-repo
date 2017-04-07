@@ -3,10 +3,6 @@
 
 there are so many cool things to learn and watch and i never seem to have the time for all of them. in an attempt to consume more of these things, i've started watching at least 1 ~20min thing every morning with my coffee.
 
-### march 2017
+### april 2017
 
-- [I've Got Swagger. Have You?](https://pusher.com/sessions/meetup/london-node-user-group/ive-got-swagger-have-you)
-- [Practically Functional Programming](https://forwardcourses.com/workshops/28)
-- [User Error on a Massive Scale - Amazon AWS - CS50 Live - S3E0](https://www.youtube.com/watch?v=JMbY_Nrj458)
-- [User Error on a Massive Scale - GitLab - CS50 Live - S3E0](https://www.youtube.com/watch?v=sVhxJglkQwI)
-- [CS50 Live, Season 3, Episode 1](https://www.youtube.com/watch?v=WMiYbWv6Bws)
+- [Making Desktop Apps with Electron](https://pusher.com/sessions/meetup/hydrahack/making-desktop-apps-with-electron)
