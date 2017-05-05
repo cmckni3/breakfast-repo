@@ -6,3 +6,4 @@ there are so many cool things to learn and watch and i never seem to have the ti
 ### may 2017
 
 - [Python for Humans](https://www.youtube.com/watch?v=uqIx4VRIuwM)
+- [Writing Your UI Swiftly](https://news.realm.io/news/sommer-panage-writing-your-ui-swiftly/)
