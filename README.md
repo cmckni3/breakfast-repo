@@ -10,3 +10,4 @@ there are so many cool things to learn and watch and i never seem to have the ti
 - [Rails Conf 2013 TDDing iOS Apps for fun and profit with RubyMotion](https://www.youtube.com/watch?v=7v3_t5SK8DM)
 - [Baruco 2013: iOS Games with RubyMotion, by Brian Sam Bodden](https://www.youtube.com/watch?v=h6PfXWpANeI)
 - [Tail Call Optimization in JS](http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html)
+- [What's new in TypeScript](https://channel9.msdn.com/events/Build/2017/B8088)
