@@ -12,3 +12,6 @@ there are so many cool things to learn and watch and i never seem to have the ti
 - [Chris Heilmann - JavaScript is a buffet, not the enemy / Script'17](https://www.youtube.com/watch?v=rfgXKJPMCos)
 - [Tail Call Optimization in JS](http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html)
 - [What's new in TypeScript](https://channel9.msdn.com/events/Build/2017/B8088)
+- [In Defense of Boring Technology by Mark Ranallo](https://www.youtube.com/watch?v=zQulCNFt4ok)
+- [Big Ruby 2014 - TESTING THE UNTESTABLE by Richard Schneeman](https://www.youtube.com/watch?v=QHMKIHkY1nM)
+- [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
