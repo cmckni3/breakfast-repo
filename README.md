@@ -10,3 +10,4 @@ there are so many cool things to learn and watch and i never seem to have the ti
 - [Python for Humans](https://www.youtube.com/watch?v=uqIx4VRIuwM)
 - [Imagine This: A Web Without Servers - Tara Vancil - JSConf EU 2018](https://www.youtube.com/watch?v=rJ_WvfF3FN8)
 - [Quirks and surprises of webdev in China - Hannes Schluchtmann - JSConf EU 2018](https://www.youtube.com/watch?v=tLUwq9NQExA)
+- [A Branch in Time - Tekin Süleyman](https://vimeo.com/280579162)
