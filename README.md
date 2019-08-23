@@ -9,3 +9,6 @@ there are so many cool things to learn and watch and i never seem to have the ti
 - [Deep Dive into AWS Fargate - Ric Harvey AWS DevDay Munich 2018](https://www.youtube.com/watch?v=IEvLkwdFgnU)
 - [Deep Dive into AWS Fargate - Abby Fuller AWS Summit London](https://www.youtube.com/watch?v=xBgiArJHv7E)
 - [AWS Builders' Day | Deep Dive into AWS Fargate - Abby Fuller](https://www.youtube.com/watch?v=ye3-gUwu9tI)
+- [GOTO 2015 - Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+- [What’s new in JavaScript Google I/O ’19](https://www.youtube.com/watch?v=c0oy0vQKEZE)
+- [Amazon CEO Jeff Bezos: It Is Always Day One](https://www.youtube.com/watch?v=KPbKeNghRYE)
