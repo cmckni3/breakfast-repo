@@ -12,3 +12,4 @@ there are so many cool things to learn and watch and i never seem to have the ti
 - [GOTO 2015 - Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [What’s new in JavaScript Google I/O ’19](https://www.youtube.com/watch?v=c0oy0vQKEZE)
 - [Amazon CEO Jeff Bezos: It Is Always Day One](https://www.youtube.com/watch?v=KPbKeNghRYE)
+- [AWS re:Invent 2018: Trends in Digital Transformation (ARC212)](https://www.youtube.com/watch?v=4Gr7hv24jK4)
